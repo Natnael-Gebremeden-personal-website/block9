@@ -36,7 +36,7 @@ li a:hover:not(.active) {
 
 .active {
   font-size: 23px;
-  background-color: rgb(181, 181, 189);
+  background-color: rgb(49, 49, 199);
   display: block;
 }
 
@@ -75,4 +75,8 @@ body {
   text-align: center;  
   margin-left: 50%;
   
+}
+script{
+  top: 95%;
+  color: yellow;
 }
